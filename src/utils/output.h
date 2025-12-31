@@ -20,6 +20,7 @@ using namespace std;
 // =========================================
 
 void typeWriter(string, int);
+void lineWriter(string, int);
 void eraseText(int, int);
 void clearCLI();
 void pauseCLI();
